@@ -4,7 +4,7 @@
 
 Submitted by: **Tanya Azari**
 
-Time spent: **7** days spent in total
+Time spent: **8** days spent in total (exact hours unknown)
 
 ## User Stories
 
@@ -41,7 +41,7 @@ Otherwise, it was a pretty smooth process and an enjoyable learning experience.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019 Tanya Azari
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
