@@ -28,16 +28,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://media.giphy.com/media/JSpRzArZPzNNWjzRnS/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
 I had to dig through may a StackOverflow page to resolve the issues I ran into, most being errors with XCode/ the files themselves, some being errors with the code (as I am new to Swift). 
 It seems like there was an error at each step--even for recording the gif! Neither QuickTime Screen Recording nor the reccommended RecordIt would capture the Simulator (the whole screen would go black).
-The final error--and the only one I wasn't able to resolve--was in pushing from XCode to GitHub; I ended up manually uploading the files via GitHub due to several unresolveable error messages.
-Otherwise, it was a pretty smooth process and a great learning experience.
+
+The final two errors--and the only ones I wasn't able to resolve--were in pushing from XCode to GitHub and recording a fully-functional gif. I ended up manually uploading the files via GitHub due to several unresolveable error messages, and recording a gif that did not include all of the app's funcitonality (as XCode kept terminating the program when I would try to change the tip percentage or input an amount on the Main storyboard).
+
+Otherwise, it was a pretty smooth process and an enjoyable learning experience.
 
 ## License
 
